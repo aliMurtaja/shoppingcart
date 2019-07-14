@@ -1,0 +1,1 @@
+export const productAPI = 'http://localhost:8003/api/product';
